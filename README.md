@@ -33,11 +33,15 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto en tu ent
 
 ---
 
-👥 Integrantes del proyecto
-Luis Carlos Ortega
-Luis Adolfo Botero López
-Luz Elena Vargas
-John Stiven Gutiérrez
+## 👥 Integrantes del proyecto
 
-🎓 Universidad de Caldas
-Este proyecto fue desarrollado como parte del programa de Ingeniería Informática de la Universidad de Caldas, en Manizales, Caldas.
+- Luis Carlos Ortega  
+- Luis Adolfo Botero López  
+- Luz Elena Vargas  
+- John Stiven Gutiérrez  
+
+---
+
+## 🎓 Universidad de Caldas
+
+Este proyecto fue desarrollado como parte del programa de **Ingeniería Informática** de la **Universidad de Caldas**, en Manizales, Caldas.
